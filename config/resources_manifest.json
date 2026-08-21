@@ -1,0 +1,32 @@
+{
+    "resources": {
+        "core": {
+            "version": "1",
+            "url": "https://github.com/kafuyuna/SokuKeroPlay/releases/download/coreres/core.rcc"
+        },
+        "avatar": {
+            "version": "1",
+            "url": "https://github.com/kafuyuna/SokuKeroPlay/releases/download/coreres/avatar.rcc"
+        },
+        "character": {
+            "version": "1",
+            "url": "https://github.com/kafuyuna/SokuKeroPlay/releases/download/coreres/character.rcc"
+        },
+        "card": {
+            "version": "1",
+            "url": "https://github.com/kafuyuna/SokuKeroPlay/releases/download/coreres/card.rcc"
+        },
+        "bgm": {
+            "version": "1",
+            "url": "https://github.com/kafuyuna/SokuKeroPlay/releases/download/coreres/bgm.rcc"
+        },
+        "repair": {
+            "version": "1",
+            "url": "https://github.com/kafuyuna/SokuKeroPlay/releases/download/coreres/repair.rcc"
+        },
+        "emoji": {
+            "version": "1",
+            "url": "https://github.com/kafuyuna/SokuKeroPlay/releases/download/coreres/emoji.rcc"
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "更好的调试选项": {
+        "file": "modules/更好的调试选项.zip",
+        "version": "1.1",
+        "creator": "鱼蛙 Fishuwako",
+        "description": "游戏内按F8切换<br>显示更多调试信息<br>仅非对战模式可用",
+        "preview": "shady-loader/resources/更好的调试选项/preview.png",
+        "islarge": false,
+        "largefile": null,
+        "tags":
+        [
+            "工具",
+            "信息显示",
+            "模组"
+        ]
+    },
+    "更好的回放菜单": {
+        "file": "modules/更好的回放菜单.zip",
+        "version": "1.1",
+        "creator": "鱼蛙 Fishuwako",
+        "description": "更宽更多信息显示的回放菜单",
+        "preview": "shady-loader/resources/更好的回放菜单/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "工具",
+            "菜单",
+            "模组"
+        ]
+    },
+    "叉子的配色包A版": {
+        "file": "modules/叉子的配色包A版.zip",
+        "version": "1.0",
+        "creator": "叉子X",
+        "description": "全人类八种配色<br>完整配色展示: BV1KedKYgEaL",
+        "preview": "shady-loader/resources/叉子的配色包A版/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "美化",
+            "全人类",
+            "材质"
+        ]
+    },
+    "叉子的配色包B版": {
+        "file": "modules/叉子的配色包B版.zip",
+        "version": "1.0",
+        "creator": "叉子X",
+        "description": "全人类八种配色<br>完整配色展示: BV1KedKYgEaL",
+        "preview": "shady-loader/resources/叉子的配色包B版/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "美化",
+            "全人类",
+            "材质"
+        ]
+    },
+    "妖梦半灵错位修正": {
+        "file": "modules/妖梦半灵错位修正.zip",
+        "version": "2.1.1",
+        "creator": "三回転 Tstar 鱼蛙 Fishuwako",
+        "description": "修正半灵错位、磷气斩特效方向、幽冥横线竖线特效、起身开SC时出圈特效闪耀",
+        "preview": "shady-loader/resources/妖梦半灵错位修正/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "优化",
+            "妖梦",
+            "模组"
+        ]
+    },
+    "大鲶鱼替换萃香": {
+        "file": "modules/大鲶鱼替换萃香.zip",
+        "version": "1.0",
+        "creator": "拉夸 Laqua",
+        "description": "将系统卡的大鲶鱼替换为巨大萃香",
+        "preview": "shady-loader/resources/大鲶鱼替换萃香/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "鲶鱼",
+            "材质"
+        ]
+    },
+    "去除早苗飞翔风特效": {
+        "file": "modules/去除早苗飞翔风特效.zip",
+        "version": "1.0",
+        "creator": "三回転 Tstar",
+        "description": "去除早苗飞翔时的风特效",
+        "preview": "shady-loader/resources/去除早苗飞翔风特效/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "早苗",
+            "模组"
+        ]
+    },
+    "去除烈日特效": {
+        "file": "modules/去除烈日特效.zip",
+        "version": "1.1",
+        "creator": "三回転 Tstar",
+        "description": "去除烈日特效",
+        "preview": "shady-loader/resources/去除烈日特效/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "天气",
+            "模组"
+        ]
+    },
+    "彗星扫帚替换魔理沙": {
+        "file": "modules/彗星扫帚替换魔理沙.zip",
+        "version": "1.0",
+        "creator": "拉夸 Laqua",
+        "description": "将原魔理沙五卡彗星替换为魔理沙骑乘扫帚",
+        "preview": "shady-loader/resources/彗星扫帚替换魔理沙/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "魔理沙",
+            "材质"
+        ]
+    },
+    "15周年选人界面": {
+        "file": "modules/15周年选人界面.zip",
+        "version": "1.0",
+        "creator": "妖精小姐, Yorumeow@B站 , 三回転 Tstar",
+        "description": "竖版，请放在高优先级<br>出处：pixiv user id 972314 (ERykk) = 微博@半退休鲞鱼摊贩",
+        "preview": "shady-loader/resources/15周年选人界面/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "美化",
+            "选人",
+            "材质"
+        ]
+    }
+}
